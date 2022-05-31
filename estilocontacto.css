@@ -1,0 +1,46 @@
+body{
+    background-image: url(mio2.jpg);
+    background-size: 100vw 100vh;
+    background-attachment:fixed;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+form {
+    width: 600px;
+    margin:auto;
+    background:rgb(0, 0, 0,0.4);
+    padding:20px 20px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0%;
+    margin-bottom: 20px;
+
+}
+input,textarea {
+width: 100%;
+margin-bottom: 30px;
+padding: 5px;
+box-sizing: border-box;
+font-size: 17px;
+}
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+#button {
+    background: #F78478;
+    color: white;
+    padding: 15px;
+}
+#button:hover{
+      cursor:pointer;
+
+}
+  

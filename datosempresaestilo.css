@@ -1,0 +1,29 @@
+body {
+    background-image:url(fondocontacto.jpg);
+    background-size: contain;
+    background-attachment:fixed;
+   margin: 0%;
+    
+    
+    
+    
+    
+}
+h1 {
+    text-decoration: double;
+    color: black;
+    text-align: center;
+    margin: 0%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+table {
+    background:rgb(0, 0, 0,0.4);
+    padding: 0%;
+}
+h3 {
+   color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
